@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Marvin</h1>
 <h3 align="center">A diligent and enthusiastic full-stack engineer: JavaScript, React, Angular, Python, Rails, Django, Ruby, Docker</h3>
 
