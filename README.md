@@ -1,4 +1,4 @@
-![Test Image 3](/Make your README.png)
+![alt text](https://github.com/marvin-nyalik/marvin-nyalik/blob/main/marvin.png?raw=true)
 
 # 💫 About Me:
 🔭 I’m currently working on Squiggle APIs UEFA-CAF Project<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with Updating Music App<br>💬 Ask me about JavaScript, Angular, React<br><br>📫 How to reach me o.silverygold@gmail.com<br><br>⚡ Fun fact Hitting rock bottom? There's only up to go
