@@ -21,5 +21,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### Passion 💯
+### Jokes & Passion 💯
 - I love writing 💌
+- My favorite ped is a Dog
+- I own a 2002 toy truck
+- I am a learnaholic
