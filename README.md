@@ -1,7 +1,7 @@
 ![alt text](https://github.com/marvin-nyalik/marvin-nyalik/blob/main/marvin.png?raw=true)
 
 # 💫 About Me:
-🔭 I’m currently working on DevOps: Docker, Kubernetes, CI/CD, AWS: EKS, ECS, EC2<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with Jenkins<br>💬 Ask me about JavaScript, React JS, Redux, Ruby, and Rails<br><br>📫 How to reach me otienomarvin7@gmail.com<br><br>⚡ Fun fact Hitting rock bottom? The only way is up
+🔭 I’m currently working on DevOps: Docker, Kubernetes, CI/CD, AWS: EKS, ECS, EC2<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with Jenkins and Terraform<br>💬 Ask me about JavaScript, React JS, Redux, Ruby, and Rails<br><br>📫 How to reach me o.silverygold@gmail.com<br><br> ###⚡ Fun fact Hitting rock bottom? The only way is up
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NyalikMarvin) 
