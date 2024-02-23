@@ -11,6 +11,11 @@
 # 💯 Github's Top 100, Kenya 💯
 [![committers.top badge](https://user-badge.committers.top/kenya_public/marvin-nyalik.svg)](https://user-badge.committers.top/kenya_public/marvin-nyalik)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=marvin-nyalik&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=marvin-nyalik&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marvin-nyalik&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=marvin-nyalik&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 
