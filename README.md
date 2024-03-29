@@ -1,7 +1,7 @@
 ![alt text](https://github.com/marvin-nyalik/marvin-nyalik/blob/main/marvin.png?raw=true)
 
 # 💫 About Me:
-🔭 I’m currently working on DevOps: Docker, Kubernetes, CI/CD, AWS: EKS, ECS, EC2<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with Jenkins and Terraform<br>💬 Ask me about JavaScript, React JS, Redux, Ruby, and Rails<br><br>📫 How to reach me o.silverygold@gmail.com<br><br> ###⚡ Fun fact Hitting rock bottom? The only way is up
+🔭 I’m currently working on DevOps: Docker, Kubernetes, CI/CD, AWS: EKS, ECS, EC2<br>💯 I’m exploring Prometheus and Grafana for monitoring and analytics <br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with Jenkins and Terraform<br>💬 Ask me about JavaScript, React, Redux, Ruby, and Ruby on Rails<br><br>📫 How to reach me o.silverygold@gmail.com<br><br> ⚡ Fun fact "The German Shepherd breed was developed by Max von Stephanitz using various traditional German herding dogs from 1899. It was originally bred as a herding dog, for herding sheep."
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NyalikMarvin) 
